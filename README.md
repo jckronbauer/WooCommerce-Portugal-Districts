@@ -4,7 +4,7 @@ This is a small WordPress plugin that adds Portugal districts to WooCommerce's l
 
 The Portugal districts list is taken from [Wikipedia](http://pt.wikipedia.org/wiki/Distritos_de_Portugal).
 
-Based on Lee Willis's WooCommerce UK Counties plugin (http://github.com/leewillis77/woocommerce-uk-counties).
+Based on [Lee Willis's WooCommerce UK Counties plugin](http://github.com/leewillis77/woocommerce-uk-counties).
 
 # Installation
 

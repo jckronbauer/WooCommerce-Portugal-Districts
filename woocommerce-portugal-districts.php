@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WooCommerce Portugal Districts
-Plugin URI: http://www.github.com/jckronbauer
+Plugin URI: http://github.com/jckronbauer/woocommerce-portugal-districts
 Description: Add Portugal districts to WooCommerce's list of states.
 Version: 1.0
 Author: Julio Cezar Kronbauer
